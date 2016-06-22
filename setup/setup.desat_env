@@ -1,0 +1,13 @@
+#!/bin/csh -f
+# 24-feb-2015 ras
+#
+##################################################################
+# DO NOT EDIT USING WINDOWS EDITORS!!!!!!!!!!
+# ONLY EDIT WITH UNIX EDITORS FOR USE ON UNIX MACHINES
+# THIS NOTE IS MAINLY FOR THE MAINTAINERS OF THE DESAT PACKAGE
+# BUT APPLIES EQUALLY TO ANYONE USING THIS ON A UNIX/LINUX PLATFORM
+# Examine file using cat -v filename to find ^M non printing cr's
+##################################################################
+setenv SSWDB_DESAT $SSW_DESAT/dbase
+
+
